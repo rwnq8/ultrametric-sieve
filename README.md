@@ -43,7 +43,7 @@ whose geometry is the product of p-adic Bruhat-Tits trees.
 ## Citation
 
 Rowan Quni-Gudzinas (QNFO/QWAV). "The Ultrametric Sieve: A Consilience of Number,
-Nature, Mind, and Form." 2026. DOI: <a href="https://doi.org/10.5281/zenodo.20756099">10.5281/zenodo.20756099</a>
+Nature, Mind, and Form." 2026. DOI: <a href="https://doi.org/10.5281/zenodo.20756216">10.5281/zenodo.20756216</a>
 
 ## License
 
